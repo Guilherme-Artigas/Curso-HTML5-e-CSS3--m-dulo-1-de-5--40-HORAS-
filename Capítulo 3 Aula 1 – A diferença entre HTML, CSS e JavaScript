@@ -6,3 +6,16 @@ JavaScript: Interatividade
 
 HTML: Hypertext Markup Language
 CSS: Cascading Style Sheets
+
+Estrutura Básica de um documento HTML
+<!DOCTYPE html>
+<html lang="PT-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <tittle>Document</tittle>
+    </head>
+    <body>
+        <h1>Olá Mundo!</h1>
+    </body>
+</html>
